@@ -1,0 +1,3 @@
+benchmark,compile_time_s,run_time_s,run_type,timestamp
+benchmark1.c,0.11830568313598633,0.16457104682922363,baseline,2025-01-10 23:23:55
+benchmark2.c,0.12668704986572266,0.25997376441955566,baseline,2025-01-10 23:23:56
